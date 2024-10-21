@@ -1,3 +1,3 @@
 ﻿# proyectoSistemaDeCostos
-Sabado 12 de octubre comienzo con proyecto, espero con ansias la entrega
+El proyecto final es el SistemaDeCostosRepetir V.5
 
